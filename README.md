@@ -1,6 +1,8 @@
 TextTrack
 =========
-Basic object to display captions (vtt) in a specified HTML element
+Basic object to display captions (vtt) in a specified HTML element 
+See http://www.delphiki.com/webvtt/ for a description of Web VTT files
+
  *  dependent on jQuery (this dependency could easily be removed)
  *  
  *  @usage 
