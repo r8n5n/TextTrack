@@ -1,5 +1,8 @@
 TextTrack
 =========
+
+Just learning how to use git hub at the moment!!!
+
 Basic object to display captions (vtt) in a specified HTML element 
 See http://www.delphiki.com/webvtt/ for a description of Web VTT files
 
