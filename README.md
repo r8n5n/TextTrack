@@ -1,8 +1,8 @@
 TextTrack
 =========
 
+## JavaScript object that displays Web VTT captions (.vtt) in a specified HTML element.
 
-JavaScript object that displays Web VTT captions (.vtt) in a specified HTML element. 
 See http://www.delphiki.com/webvtt/ for a description of Web VTT files
 
 
